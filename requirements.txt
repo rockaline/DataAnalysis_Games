@@ -1,6 +1,6 @@
 pandas
 numpy
-plotly.graph_objects
+plotly.express
 matplotlib.pyplot
 stats
 seaborn
